@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-02-25T10:49:00Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "4ch_mixer_v1"
+        },
+        "Owner": "Barry C <barryjosephcullen@gmail.com>",
+        "Size": {
+            "X": 40.62,
+            "Y": 53.01
+        }
+    }
+}
